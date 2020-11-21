@@ -1,0 +1,224 @@
+html, body {
+    width: 21cm;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 12pt;
+    font-family: font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+}
+/*  <div id="header">for logo  */
+#header {
+    display: grid;
+    grid-template-areas: 'left mid right';
+    background-color: white;
+    margin-bottom: 0.5cm;
+}
+/*  left img in logo  */
+#left {
+    display: grid;
+    grid-area: left;
+    align-self: center;
+    margin: auto;
+}
+/*  wrighting in logo  */
+#mid {
+    display: grid;
+    grid-area: mid;
+    text-align: center;
+    font-size: 24pt;
+    margin: auto;
+}
+/* right img in logo   */
+#right {
+    display: grid;
+    grid-area: right;
+    align-self: center;
+    margin: auto;
+}
+/* <div id="info">container for weather and note   */
+#info {
+    display: grid;
+    grid-template-areas: 'ileft iright';
+    background-color: white;
+    margin-bottom: 0.5cm;
+}
+/*  weather  */
+#ileft {
+    display: grid;
+    grid-area: ileft;
+    align-self: center;
+    margin: auto;
+}
+/*  note  */
+#iright {
+  display: grid;
+    grid-area: iright;
+    text-align: center;
+    margin: auto;  
+}
+/* label for note   */
+#inote {
+    margin-top: 0.5cm;
+}
+/*  textarea for note  */
+#note {
+    margin-bottom: 0.5cm;
+}
+
+/* end of info and heading all working   */
+/*  <div class="mgrid"> container for main page  */
+.mgrid {
+  display: grid;
+  grid-template-areas: 'mleft up-photo';
+  
+  margin-left: 0.5cm;
+}
+/*  container for all the querstion  */
+#mleft {
+  grid-area: mleft;
+}
+.mtabel {
+  width: 12cm;
+  margin-right: .5cm;
+}
+/* <table class="fquest"> table for question   */
+.fquest {
+   text-align: center;
+    width: 12cm;
+    margin-bottom: 0.25cm;
+    background-color: #f0f0ff;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 12pt;
+	table-column: 9cm, 3cm;
+}
+/*  td question  */
+.quest {
+  width: 9cm;
+  font-size: 12pt;
+}
+.safty {
+  width: 3cm;
+  font-size: 12pt;
+}
+
+th {
+  background-color: #cccccc;
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-size: 12pt;
+}
+
+td {
+	background-color: #f0f0ff;
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-size: 12pt;
+}
+
+.up-photo, #output, .thumbnail {
+    grid-area: up-photo;
+    text-align: center;
+    width: 7.5cm;
+    margin-bottom: 0.25cm;
+    margin-right: 0.25cm;
+    margin-left: 0.25cm;
+}
+#sr {
+	background-color: #f0f0ff;
+	border: none;
+}
+/* hidden elemants */
+@media print {
+	body {visibility: visible;}
+		form {visibility: visible;}
+		#btn {visibility: hidden;}
+		#photo {visibility: hidden;}
+		#files {visibility: hidden;}
+		#result {visibility: visible;}
+		#btn2 {visibility: hidden;}
+	footer {
+		page-break-after: always;
+	}
+	a {
+		page-break-inside: avoid;
+	}
+    h1, h2, h3, h4, h5 {
+		page-break-before: always;
+    }
+	table, figure { 
+		page-break-inside: avoid;
+	}
+	.mtabel {
+	page-break-inside: avoid;
+	}
+	#result {
+	page-break-inside: avoid;
+	}
+}
+/*need to change to id photo (#photo) not up-photo 
+a {
+  color: blue;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: green;
+}
+
+a:active {
+  color: red;
+}
+.thumbnail {
+  display: grid;
+  -webkit-grid-area: thumbnail / thumbnail / thumbnail / thumbnail;
+  grid-area: thumbnail / thumbnail / thumbnail / thumbnail;
+  height: 100px;
+  margin: 2%;
+}
+
+a.comment-indicator:hover + comment {
+  background: #ffffdd none repeat scroll 0% 0%;
+  position: absolute;
+  display: block;
+  border: 1px solid black;
+  padding: 0.5em;
+}
+
+a.comment-indicator {
+  background: red none repeat scroll 0% 0%;
+  display: inline-block;
+  border: 1px solid black;
+  width: 0.5em;
+  height: 0.5em;
+}
+
+.custom-file-input::before {
+  content: "PHOTO";
+  display: inline-block;
+  background: #ccffcc none repeat scroll 0% 0%;
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 5px 8px;
+  outline: medium none;
+  white-space: nowrap;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 10pt;
+  color: black;
+}
+
+.custom-file-input:hover::before {
+  border-color: black;
+}
+
+.custom-file-input:active::before {
+  background: rgba(0, 0, 0, 0) -webkit-linear-gradient(top, #e3e3e3, #f9f9f9) repeat scroll 0% 0%;
+}
+*/
