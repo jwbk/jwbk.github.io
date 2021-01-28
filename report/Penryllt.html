@@ -3,7 +3,7 @@
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<!--meta name="viewport" content="width=device-width,initial-scale=1"-->
+	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<title>Penyrallt park report</title>
 
 	<link rel="stylesheet" href="a4-try.css" media="screen, print">
@@ -311,20 +311,7 @@
 					</table>
 				</div>
 <input id="btn2" type="button" value="Print" onclick="javascript:printDiv('park')" />
-						<script language="javascript" type="text/javascript">
-							function printDiv(park) {
-								var divElements = document.getElementById(park).innerHTML;
-								var oldPage = document.body.innerHTML;
-
-								document.body.innerHTML =
-									"<html><head><title></title></head><body>" +
-									divElements + "</body>";
-
-								window.print();
-
-								document.body.innerHTML = oldPage;
-							}
-						</script>
+						<script>function window.print()</script>
 </div>
 			<div class="up-photo">
 				<!--input type="file" accept="image/*" name="image" id="file, files" onchange="loadFile(event)" multiple="" capture="environment" style="display: none;">

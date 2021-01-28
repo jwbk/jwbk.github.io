@@ -445,20 +445,7 @@
 										</tr>
 									</table>
 									<input id="btn2" type="button" value="Print" onclick="javascript:printDiv('park')" />
-									<script>
-										function printDiv(park) {
-											var divElements = document.getElementById(park).innerHTML;
-											var oldPage = document.body.innerHTML;
-
-											document.body.innerHTML =
-												"<html><head><title></title></head><body>" +
-												divElements + "</body>";
-
-											window.print();
-
-											document.body.innerHTML = oldPage;
-										}
-									</script>
+									<script>function window.print()</script>
 								</div>
 						</div>
 						</div>
