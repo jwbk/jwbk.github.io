@@ -7,19 +7,22 @@
 	<title>pdf</title>
     <style>
         .col_box {
-            
+            grid-area:top;
             background-color: gray;
             width: 75%;
             text-align: center;
             justify-content: center;
 			
         }        
-        .nav_bar {background-color: dimgray; 
+        .nav_bar {
+		grid-area: bar;
+		background-color: dimgray; 
 		align-content:center; 
 		justify-content:center;
 		
 		}
 		aside {
+		grid-area: nav;
 		  width: 20%;
 		  padding-left: 15px;
 		  margin-left: 15px;
@@ -27,11 +30,23 @@
 		  font-style: italic;
 		  background-color: lightgray;
 		}
+		iframe {
+			grid-area:fam;
+		}
+		.mgrid {
+		disply: grid;
+		grid; ,top top top top top,
+			  ,nav nav bar bar bar,
+			  ,nav nav fam fam fam,
+			  ,nav nav fam fam fam,
+			  ,nav nav fam fam fam,;
+		}
+		
 	</style>
 </head>
 
 <body>
-<div>
+<div class="mgrid">
  <div class="col_box">
         <h1>PDF BOOKS</h1>
         <div class="nav_bar">
