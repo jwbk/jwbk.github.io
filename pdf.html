@@ -10,23 +10,26 @@
 		width: 21cm;
 	}
         .col_box {
-            grid-area:top;
+            grid-area: top;
             background-color: gray;
+			position: fixed;
             width: 100%;
             text-align: center;
             justify-content: center;
 			
         }        
         .nav_bar {
+		position: fixed;
 		grid-area: bar;
 		background-color: dimgray; 
-		align-content:center; 
-		justify-content:center;
+		align-content: center; 
+		justify-content: center;
 		
 		}
 		aside {
 		grid-area: nav;
 		width: 20%;
+		position: fixed;
 		padding-right: 15px;
 		  padding-left: 15px;
 		  margin-left: 5px;
@@ -35,7 +38,10 @@
 		  background-color: lightgray;
 		}
 		iframe {
-			grid-area:fam;
+			grid-area: fam;
+			overflow: scroll;
+			float: left; 
+			clear: none;
 		}
 		.mgrid {
 		disply: grid;
