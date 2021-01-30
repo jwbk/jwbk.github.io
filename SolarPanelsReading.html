@@ -12,7 +12,7 @@
 			<h1 id="mid">Cwmaman Town Council<br>Solar Panels<br>Reading</h1>
 			<img id="right" src="LOGO-91X95.png" alt="logo" />
 		</div>
-<?php 
+<?
 // change this to a location apropriate for your system, the file does not need to exist
 // but you must have write access to the directory.
 $tmpDir = getenv('/SolarPanels');
@@ -129,7 +129,7 @@ class SolarPanels {
         // below is our entry form for adding a SolarPanels entry
         // we insert the link to this page so the form will work, no matter
         // where we put it, or what we call it.
-        ?>
+        
         <a name="post"><b>Please submit reading</b></a><br> 
         <form action="<?php echo($_SERVER["PHP_SELF"]);?>" method="POST"> 
         Name: <input type="Text" name="name" size="40" maxlength="50"><br> 
@@ -140,7 +140,7 @@ class SolarPanels {
         <input type="Submit" name="action" value="Submit"> 
         <input type="reset"> 
         </form> 
-        <?php
+        
     }
 }
 
