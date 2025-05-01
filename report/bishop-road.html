@@ -425,8 +425,9 @@
 											<td class="quest"><input class="quest" required="yes" type="text">
 										</tr>
 									</table>
-									<input id="btn2" type="button" value="Print" onclick="javascript:printDiv('park')" />
-									<script>function window.print()</script>
+									<!--input id="btn2" type="button" value="Print" onclick="javascript:printDiv('park')" />
+									<script>function window.print()</scrip-->
+<button type="button" onclick="window.print()">Print</button>
 								</div>
 						</div>
 						<div class="up-photo">
@@ -438,7 +439,7 @@
 									<p><label id="btn" for="files" style="cursor: pointer;">Upload Image</label>
 								</output>
 							</article>
-							<script>
+							<!--<script>
 								window.onload = function() {
 
 									//Check File API support
@@ -482,14 +483,92 @@
 										console.log("Your browser does not support File API");
 									}
 								};
-							</script>
+							</script> -->
 						</div>
 					</div>
 				</div>
 			</div>
 		</form>
 
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    const form = document.querySelector('form'); // Select the form
+    const result = document.getElementById('result'); // Output section for images
+    const uploadButton = document.getElementById("files"); // Upload button for image
+    const printButton = document.getElementById("btn2"); // Print button
 
+    // Handle image uploads
+    uploadButton.addEventListener("change", function (event) {
+        const files = event.target.files; // Get the list of files
+        for (let i = 0; i < files.length; i++) {
+            const file = files[i];
+            if (!file.type.match('image')) continue; // Ensure it's an image
+
+            const picReader = new FileReader();
+            picReader.addEventListener("load", function (event) {
+                const picFile = event.target;
+                const div = document.createElement("div");
+                div.innerHTML = "<img class='thumbnail' src='" + picFile.result + "' title='" + picFile.name + "'/>";
+                result.insertBefore(div, null); // Insert the image into the result div
+            });
+            picReader.readAsDataURL(file); // Read the image as a data URL
+        }
+    });
+
+    // Handle form submission for park report
+    form.addEventListener('submit', function (event) {
+        event.preventDefault(); // Prevent default form submission
+        const formData = new FormData(form); // Create a FormData object with form data
+
+        // Prepare data for GitHub API
+        const dataToSend = {};
+        formData.forEach((value, key) => {
+            dataToSend[key] = value; // Create an object from form data
+        });
+
+        // Convert data to JSON
+        const jsonData = JSON.stringify(dataToSend);
+
+        // Sending to GitHub Gists (as an example)
+        const url = 'https://api.github.com/gists';
+        fetch(url, {
+            method: 'POST',
+            headers: {
+                'Authorization': 'token YOUR_PERSONAL_ACCESS_TOKEN', // Replace with your token
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                description: "Park report submission", // Optional description
+                public: true, // Set to false if you want it to be private
+                files: {
+                    "report.json": {
+                        content: jsonData // Add our form data as a file
+                    }
+                }
+            }),
+        })
+        .then(response => response.json())
+        .then(data => console.log(data))
+        .catch(error => console.error('Error:', error));
+
+        alert("Form Submitted! Check Console for Status."); // Alert for confirmation
+    });
+
+    // Function for printing the form
+    printButton.addEventListener('click', function () {
+        printDiv('park');
+    });
+
+    function printDiv(divId) {
+        const printContents = document.getElementById(divId).innerHTML;
+        const originalContents = document.body.innerHTML;
+
+        document.body.innerHTML = printContents;
+        window.print();
+        document.body.innerHTML = originalContents;
+    }
+});
+</script>
 	</body>
 
 </html>
