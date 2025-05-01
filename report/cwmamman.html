@@ -667,7 +667,17 @@
 										</tr>
 									</table>
 									<input id="btn2" type="button" value="Print" onclick="javascript:printDiv('park')" />
-									<script>function window.print()</script>
+									<script>
+function printDiv(divId) {
+    var content = document.getElementById(divId).innerHTML;
+    var printWindow = window.open('', '', 'height=600,width=800');
+    printWindow.document.write('<html><head><title>Print</title></head><body>');
+    printWindow.document.write(content);
+    printWindow.document.write('</body></html>');
+    printWindow.document.close();
+    printWindow.print();
+}
+</script>
 								</div>
 						</div>
 						</div>
