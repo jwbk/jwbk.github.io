@@ -130,6 +130,15 @@ td {
 }
 /* hidden elemants */
 @media print {
+	
+    input, select {
+      border: none;
+      background: transparent;
+    }
+
+    input::placeholder {
+      color: #000;
+    }
 	body {visibility: visible;}
 		form {visibility: visible;}
 		#btn {visibility: hidden;}
