@@ -131,8 +131,9 @@ td {
 /* hidden elemants */
 @media print {
 	select[name="safty"] {
-		border: none;
-      background: transparent;
+        border: none; /* Removes the border */
+        background: none; /* Removes default styling */
+        appearance: none; /* Hides default dropdown styling */
     }
 	body {visibility: visible;}
 		form {visibility: visible;}
