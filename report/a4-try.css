@@ -130,7 +130,10 @@ td {
 }
 /* hidden elemants */
 @media print {
-	
+	select[name="safty"] {
+		border: none;
+      background: transparent;
+    }
 	body {visibility: visible;}
 		form {visibility: visible;}
 		#btn {visibility: hidden;}
