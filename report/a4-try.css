@@ -133,6 +133,7 @@ td {
 	select[name="safty"] {
 		border: none;
       background: transparent;
+	  visibility: hidden;
     }
 	body {visibility: visible;}
 		form {visibility: visible;}
