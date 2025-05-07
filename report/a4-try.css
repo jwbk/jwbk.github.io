@@ -119,7 +119,7 @@ td {
 .up-photo, #output, .thumbnail {
     grid-area: up-photo;
     text-align: center;
-    width: 7.5cm;
+    width: 6cm;
     margin-bottom: 0.25cm;
     margin-right: 0.25cm;
     margin-left: 0.25cm;
