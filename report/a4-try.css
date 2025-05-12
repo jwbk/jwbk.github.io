@@ -96,10 +96,12 @@ html, body {
 .quest {
   width: 9cm;
   font-size: 12pt;
+  text-align: center;					 
 }
 .safty {
   width: 3cm;
   font-size: 12pt;
+  float: right;			   
 }
 
 th {
@@ -119,7 +121,7 @@ td {
 .up-photo, #output, .thumbnail {
     grid-area: up-photo;
     text-align: center;
-    width: 6cm;
+    width: 7.5cm;
     margin-bottom: 0.25cm;
     margin-right: 0.25cm;
     margin-left: 0.25cm;
@@ -128,14 +130,11 @@ td {
 	background-color: #f0f0ff;
 	border: none;
 }
-
-
 /* hidden elemants */
 @media print {
 	select[name="safty"] {
-        border: none; /* Removes the border */
-        background: none; /* Removes default styling */
-        appearance: none; /* Hides default dropdown styling */
+		border: none;
+      background: transparent;
     }
 	body {visibility: visible;}
 		form {visibility: visible;}

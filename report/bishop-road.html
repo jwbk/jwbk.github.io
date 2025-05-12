@@ -1,20 +1,20 @@
 <!DOCTYPE html>
-<html lang="en-gb">
+<html>
 
 	<head>
 		
-		<meta charset="UTF-8" http-equiv="content-type" content="text/html">
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<meta name="viewport" content="width=device-width,initial-scale=1">
 		<title>Bishop Road park report</title>
 
 
 		<link rel="stylesheet" href="a4-try.css" media="screen">
 		<link rel="stylesheet" href="a4-try.css" media="print">
-
+		<script src="../js/html2pdf.bundle.min.js"></script>
 </head>		
 
 	<body>
-		<form>
+		<form id="inspectionForm">
 			<div id="park">
 				<div id="header">
 				<img id="left" src="LOGO-91X95.png" alt="logo"></img>
@@ -29,10 +29,10 @@
 						<label for="time">Time</label>
 						<input id="time" type="time" placeholder="Time"></input>
 						<label for="name">Name</label>
-						<input id="name" type="text" placeholder="Name"></input>
+						<input id="name" type="text" autocomplete="name" placeholder="Name"/>
 						<label for="weather">Weather</label>
-						<select id="weather">
-							<option selected="selected" value="Pick">Pick One</option>
+						<select id="weather" name="Weather">
+							<option selected="selected" value="safe">safe</option>
 							<option value="Sunny">Sunny</option>
 							<option value="Rain">Rain</option>
 							<option value="Cloudy">Cloudy</option>
@@ -54,8 +54,8 @@
 								<tr>
 									<td class="quest"> Is the access free of obstructions</td>
 									<td class="safty"><select name="safty">
-											<option selected="selected"value="safe">safe</option>
-											<option value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
+											
 											<option value="risk">risk</option>
 											<option value="n/a">n/a</option>
 										</select>
@@ -64,8 +64,8 @@
 								<tr>
 									<td class="quest">Is the area free of rubbish</td>
 									<td class="safty"><select name="safty">
-											<option selected="selected"value="safe">safe</option>
-											<option value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
+											
 											<option value="risk">risk</option>
 											<option value="n/a">n/a</option>
 										</select>
@@ -74,8 +74,8 @@
 								<tr>
 									<td class="quest">Does the fencing appear safe</td>
 									<td class="safty"><select name="safty">
-											<option selected="selected"value="safe">safe</option>
-											<option value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
+											
 											<option value="risk">risk</option>
 											<option value="n/a">n/a</option>
 										</select>
@@ -84,8 +84,8 @@
 								<tr>
 									<td class="quest">Are gate latches operating correctly</td>
 									<td class="safty"><select name="safty">
-											<option selected="selected"value="safe">safe</option>
-											<option value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
+											
 											<option value="risk">risk</option>
 											<option value="n/a">n/a</option>
 										</select>
@@ -102,7 +102,7 @@
 								<tr>
 									<td class="quest">Is the park free of fallen tree debris</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -110,7 +110,7 @@
 								<tr>
 									<td class="quest">Free from the encroachment of weeds</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -118,7 +118,7 @@
 								<tr>
 									<td class="quest">Are trees free of overhanging branches</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -136,7 +136,7 @@
 								<tr>
 									<td class="quest">Are they free from vandalism</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -144,7 +144,7 @@
 								<tr>
 									<td class="quest">Are they steady and safe</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -161,7 +161,7 @@
 								<tr>
 									<td class="quest">Is the ground clean</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -169,7 +169,7 @@
 								<tr>
 									<td class="quest">Is the any damage to the ground</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -177,7 +177,7 @@
 								<tr>
 									<td class="quest">Dose the wood-chip need raking</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -185,7 +185,7 @@
 								<tr>
 									<td class="quest">Is the park free of mole's</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -202,7 +202,7 @@
 								<tr>
 									<td class="quest">Is the area free from standing water</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -219,7 +219,7 @@
 								<tr>
 									<td class="quest">Is the metal spring in good working order</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -227,7 +227,7 @@
 								<tr>
 									<td class="quest">Are the handle secured</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -236,7 +236,7 @@
 									<td class="quest">Are the spring's free from corrosion</td>
 									<td>
 										<select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -254,7 +254,7 @@
 								<tr>
 									<td class="quest">Dose structures appear to be in safe working order</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -263,7 +263,7 @@
 								<tr>
 									<td class="quest">Is the structure free from corrosion</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -280,7 +280,7 @@
 								<tr>
 									<td class="quest">Are the step's free from decay and steady</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -288,7 +288,7 @@
 								<tr>
 									<td class="quest">Is the frame free from corrosion</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -304,7 +304,7 @@
 								<tr>
 									<td class="quest">Are chain's moving freely</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -312,7 +312,7 @@
 								<tr>
 									<td class="quest">Are seat in good working order</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -320,7 +320,7 @@
 								<tr>
 									<td class="quest">Is the frame free from corrosion</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -337,7 +337,7 @@
 								<tr>
 									<td class="quest">Dose the swing move freely and free of wear.</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -346,7 +346,7 @@
 								<tr>
 									<td class="quest">Are acrylic boards free from vandalism and secured</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -355,7 +355,7 @@
 								<tr>
 									<td class="quest">Is all rope free from decay and safe</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -364,7 +364,7 @@
 								<tr>
 									<td class="quest">Are all nut and bolt secured</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -382,7 +382,7 @@
 								<tr>
 									<td class="quest">Are the rope free from wear and tear</td>
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -391,7 +391,7 @@
 								<tr>
 									<td class="quest">Are all bolts / nuts secure
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -399,7 +399,7 @@
 								<tr>
 									<td class="quest">Do all chains appear to be in a safe condition
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
@@ -407,169 +407,88 @@
 								<tr>
 									<td class="quest">Is frame steady and safe
 									<td><select name="safty">
-																<option selected="selected" value="safe">safe</option>
+											<option selected="selected" value="safe">safe</option>
 											<option value="safe">safe
 											<option value="risk">risk
 											<option value="n/a">n/a
 										</select></td></tr>
 								</tr>
 							</table>
-						</div>
-						<div class="mtabel">
+						</div><div class="mtabel">
 							<table class="fquest">
 								<div class="sig">
 									<table class="quest">
 										<tr>
+											<th><b>SIGNATURE REQUIRED</b></th>
 										</tr>
 										<tr>
-											<td class="quest"><label for="sig"><b>SIGNATURE REQUIRED</b></label><input id="sig" class="quest" required="yes" type="text" placeholder="Sign"/>
+											<td class="quest"><input class="quest" name="sig" required="yes" type="text">
 										</tr>
 									</table>
-									<input id="btn2" type="button" onclick="window.print()" value="Print"/>
-									<!--script>function window.print()</scrip>
-<button id="btn2" type="button" onclick="window.print()">Print</button-->
+									<!--input id="btn2" type="button" value="Print" onclick="javascript:printDiv('park')" />
+									<script>function window.print()</scrip-->
+<button id="btn2" type="button" onclick="window.print()">Print</button>
 								</div>
-								</table>
 						</div>
 						<div class="up-photo">
 							<!--input type="file" accept="image/*" name="image" id="file, files" onchange="loadFile(event)" multiple="" capture="environment" style="display: none;">
 				<p><label id="btn" for="files" style="cursor: pointer;">Upload Image</label><img id="output, result" width="7.5cm" /-->
 							<article>
 	<input class="custom-file-input" id="files" value="Photo's" accept="image/*" name="image" multiple="" capture="environment" type="file" style="display: none;">
-								<output id="result" width="6cm" attributes=""></output>
+								<output id="result" attributes=""></output>
 									<p><label id="btn" for="files" style="cursor: pointer;">Upload Image</label>
 								</output>
 							</article>
-							<!--<script>
-								window.onload = function() {
-
-									//Check File API support
-									if (window.File && window.FileList && window.FileReader) {
-										var filesInput = document.getElementById("files");
-
-										filesInput.addEventListener("change", function(event) {
-
-											var files = event.target.files; //FileList object
-											var output = document.getElementById("result");
-
-											for (var i = 0; i < files.length; i++) {
-												var file = files[i];
-
-												//Only pics
-												if (!file.type.match('image'))
-													continue;
-
-												var picReader = new FileReader();
-
-												picReader.addEventListener("load", function(event) {
-
-													var picFile = event.target;
-
-													var div = document.createElement("div");
-
-													div.innerHTML = "<img class='thumbnail' src='" + picFile.result + "'" +
-														"title='" + picFile.name + "'/>";
-
-													output.insertBefore(div, null);
-
-												});
-
-												//Read the image
-												picReader.readAsDataURL(file);
-											}
-
-										});
-									}
-									else {
-										console.log("Your browser does not support File API");
-									}
-								};
-							</script> -->
 						</div>
 					</div>
 				</div>
 			</div>
 		</form>
+				<script>
+					window.onload = function() {
 
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-    const form = document.querySelector('form'); // Select the form
-    const result = document.getElementById('result'); // Output section for images
-    const uploadButton = document.getElementById("files"); // Upload button for image
-    const printButton = document.getElementById("btn2"); // Print button
+						//Check File API support
+						if (window.File && window.FileList && window.FileReader) {
+							var filesInput = document.getElementById("files");
 
-    // Handle image uploads
-    uploadButton.addEventListener("change", function (event) {
-        const files = event.target.files; // Get the list of files
-        for (let i = 0; i < files.length; i++) {
-            const file = files[i];
-            if (!file.type.match('image')) continue; // Ensure it's an image
+							filesInput.addEventListener("change", function(event) {
 
-            const picReader = new FileReader();
-            picReader.addEventListener("load", function (event) {
-                const picFile = event.target;
-                const div = document.createElement("div");
-                div.innerHTML = "<img class='thumbnail' src='" + picFile.result + "' title='" + picFile.name + "'/>";
-                result.insertBefore(div, null); // Insert the image into the result div
-            });
-            picReader.readAsDataURL(file); // Read the image as a data URL
-        }
-    });
+								var files = event.target.files; //FileList object
+								var output = document.getElementById("result");
 
-    // Handle form submission for park report
-    form.addEventListener('submit', function (event) {
-        event.preventDefault(); // Prevent default form submission
-        const formData = new FormData(form); // Create a FormData object with form data
+								for (var i = 0; i < files.length; i++) {
+									var file = files[i];
 
-        // Prepare data for GitHub API
-        const dataToSend = {};
-        formData.forEach((value, key) => {
-            dataToSend[key] = value; // Create an object from form data
-        });
+									//Only pics
+									if (!file.type.match('image'))
+										continue;
 
-        // Convert data to JSON
-        const jsonData = JSON.stringify(dataToSend);
+									var picReader = new FileReader();
 
-        // Sending to GitHub Gists (as an example)
-        const url = 'https://api.github.com/gists';
-        fetch(url, {
-            method: 'POST',
-            headers: {
-                'Authorization': 'token YOUR_PERSONAL_ACCESS_TOKEN', // Replace with your token
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({
-                description: "Park report submission", // Optional description
-                public: true, // Set to false if you want it to be private
-                files: {
-                    "report.json": {
-                        content: jsonData // Add our form data as a file
-                    }
-                }
-            }),
-        })
-        .then(response => response.json())
-        .then(data => console.log(data))
-        .catch(error => console.error('Error:', error));
+									picReader.addEventListener("load", function(event) {
 
-        alert("Form Submitted! Check Console for Status."); // Alert for confirmation
-    });
+										var picFile = event.target;
 
-    // Function for printing the form
-    printButton.addEventListener('click', function () {
-        printDiv('park');
-    });
+										var div = document.createElement("div");
 
-    function printDiv(divId) {
-        const printContents = document.getElementById(divId).innerHTML;
-        const originalContents = document.body.innerHTML;
+										div.innerHTML = "<img class='thumbnail' src='" + picFile.result + "'" +
+											"title='" + picFile.name + "'/>";
 
-        document.body.innerHTML = printContents;
-        window.print();
-        document.body.innerHTML = originalContents;
-    }
-});
-</script>
+										output.insertBefore(div, null);
+
+									});
+
+									//Read the image
+									picReader.readAsDataURL(file);
+								}
+
+							});
+						} else {
+							console.log("Your browser does not support File API");
+						}
+					};
+				</script>
+
 	</body>
 
 </html>
