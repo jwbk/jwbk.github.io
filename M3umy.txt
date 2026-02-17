@@ -1,0 +1,1315 @@
+Channel name:SKY Sport 1 UK
+URL:http://cdnv.cli.tn/iptv/ch922?code=610116485444847
+Channel name:Sky Sport 2 UK
+URL:http://cdnv.cli.tn/iptv/ch937?code=610116485444847
+Channel name:SKY Sport 3 UK
+URL:http://cdnv.cli.tn/iptv/ch914?code=610116485444847
+Channel name:SKY Sport 4 UK
+URL:http://cdnv.cli.tn/iptv/ch915?code=610116485444847
+Channel name:SKY Sport 5 UK
+URL:http://cdnv.cli.tn/iptv/ch916?code=610116485444847
+Channel name:Sport Mix UK
+URL:http://cdnv.cli.tn/iptv/ch931?code=610116485444847
+Channel name:BT Sport 1
+URL:http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
+Channel name:BT Sport 2
+URL:http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
+Channel name:BT Sport Extra
+URL:http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
+Channel name:UK:ANIMAL_PLANET
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/2034.ts
+Channel name:UK:FILM4
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/2033.ts
+Channel name:UK:SYFY
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1628.ts
+Channel name:UK:Sky_Movies_Thriller
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1627.ts
+Channel name:UK:Sky_Movies_Select
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1626.ts
+Channel name:UK:Sky_Movies_ScFi-Horror
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1625.ts
+Channel name:UK:Sky_Movies_Premiere
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1624.ts
+Channel name:UK:Sky_Movies_Greats
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1623.ts
+Channel name:UK:Sky_Movies_Family
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1622.ts
+Channel name:UK:Sky_Movies_Drama
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1621.ts
+Channel name:UK:Sky_Movies_Disney
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1620.ts
+Channel name:UK:Sky_Movies_Comedy
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1619.ts
+Channel name:UK:Sky_Movies_Action
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1618.ts
+Channel name:UK:Sky_Living
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1617.ts
+Channel name:UK:Sky_Atlantic
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1616.ts
+Channel name:UK:Sky_2
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1615.ts
+Channel name:UK:Sky_1
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1614.ts
+Channel name:UK:SKY-SPORTS-MAINEVENT
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/2027.ts
+Channel name:UK:SKY-SPORTS-PREMIERLEAGUE
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1613.ts
+Channel name:UK:SKY-SPORTS-GOLF
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1612.ts
+Channel name:UK:SKY-SPORTS-ACTIONURL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1611.ts
+Channel name:UK:SKY-SPORTS-CRICKET
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1610.ts
+Channel name:UK:SKY-SPORTS-FOOTBALL
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1609.ts
+Channel name:UK:SKY-SPORTS-NEWS
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1608.ts
+Channel name:UK:SKY-SPORTS-MIX
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/2032.ts
+Channel name:UK:DAVE
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/2031.ts
+Channel name:UK:SKY-SPORTS-F1
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1607.ts
+Channel name:UK:RACING_UK
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/2026.ts
+Channel name:UK:Sky News Live
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1606.ts
+Channel name:UK:SKY HITS
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1605.ts
+Channel name:UK:SKY ARTS
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1604.ts
+Channel name:UK:Nat_Geo_Wild_HD
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1630.ts
+Channel name:UK:Nat_Geo_HD
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1629.ts
+Channel name:UK:ITV_4_HD
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1599.ts
+Channel name:UK:ITV_3_HD
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1598.ts
+Channel name:UK:ITV_2HD
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1597.ts
+Channel name:UK:ITV_1_HD
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1596.ts
+Channel name:UK:ITV ENCORE
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1595.ts
+Channel name:UK:FOX News
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1632.ts
+Channel name:UK:Fox
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1631.ts
+Channel name:UK:Zee_Tv
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1874.ts
+Channel name:UK:Zee_Cinema
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1873.ts
+Channel name:UK:Sony_Tv
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1875.ts
+Channel name:UK:Eurosport2
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1603.ts
+Channel name:UK:Eurosport1
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1602.ts
+Channel name:UK:EIR SPORT 2
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1601.ts
+Channel name:UK:EIR SPORT 1
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1600.ts
+Channel name:UK:Disney XD
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1641.ts
+Channel name:UK:Disney junior
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1640.ts
+Channel name:UK:Disney Channel
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1639.tsChannel name:UK:Discovery_Turbo
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1638.ts
+Channel name:UK:Discovery_Science
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1637.ts
+Channel name:UK:Discovery_History
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1636.ts
+Channel name:UK:Discovery
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1635.ts
+Channel name:UK:BT Sport 3 HD
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1594.ts
+Channel name:UK:BT Sport 2 HD
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1593.ts
+Channel name:UK:BT Sport 1 HD
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1592.ts
+Channel name:UK:BOXNATION
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1634.ts
+Channel name:UK:Boomerang
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1633.ts
+Channel name:UK:BBC WORLD NEWS
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1591.ts
+Channel name:UK:BBC 2
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1590.ts
+Channel name:UK:BBC 1
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/1589.ts
+Channel name:UK:TCM
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/2064.ts
+Channel name:UK:SKY_ARTS
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/2068.ts
+Channel name:UK:LIVERPOOL_FC
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/2070.ts
+Channel name:UK:GOLD
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/2065.ts
+Channel name:UK:E4
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/2067.ts
+Channel name:UK:COMEDY_CENTRAL_EXTRA
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/2072.ts
+Channel name:UK:COMEDY_CENTRAL
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/2069.ts
+Channel name:UK:CLUBLAND
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/2073.ts
+Channel name:UK:CHANNEL5
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/2066.ts
+Channel name:UK:CHANNEL4
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/2071.ts
+Channel name:UK:UNIVERSAL_CHANNEL
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/2077.ts
+Channel name:UK:MOTORSPORT_TV
+URL:http://tyi-stream.ddns.net:1905/live/napoli58xpintoKd/KHdas7zdHxN765c/2078.ts
+Channel name:Uk: Sky Sports Golf
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/96.ts
+Channel name:Uk: Sky Sports Golf HD
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/9779.ts
+Channel name:Uk: Sky Sports Action
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/38.ts
+Channel name:Uk: Sky Sports Action HD
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/9772.ts
+Channel name:Uk: Sky Sports Arena
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/3963.ts
+Channel name:Uk: Sky Sports Arena HDURL:http://xxultraxx.com:8000/live/abc12345/abc12345/9773.ts
+Channel name:Uk: Sky Sports Cricket
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/37.ts
+Channel name:Uk: Sky Sports Cricket HD
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/9774.ts
+Channel name:Uk: Sky Sports Main Event
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/36.ts
+Channel name:Uk: Sky Sports Events HD
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/9775.ts
+Channel name:Uk: Sky Sports Football
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/3962.ts
+Channel name:Uk: Sky Sports Football HD
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/9776.ts
+Channel name:Uk: Sky Sports Premier League
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/95.ts
+Channel name:Uk: Sky Sports League HD
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/9777.ts
+Channel name:Uk: Sky Sport Mix
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4661.ts
+Channel name:Uk: Sky Sports Mix HD
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/9778.ts
+Channel name:Uk: BT Sport 1HD
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4658.ts
+Channel name:Uk: BT Sport 2HD
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4659.ts
+Channel name:Uk: BT Sport 3HD
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4660.ts
+Channel name:Uk: BT Sport Extra
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/6971.ts
+Channel name:Uk: BT Sport ESPN HD
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/6970.ts
+Channel name:Uk: Box.Nation
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/6930.ts
+Channel name:Uk: Sky Sport News
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4662.ts
+Channel name:Uk: Sky.Racing
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4653.ts
+Channel name:Uk: LiverPool FC
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4655.ts
+Channel name:Uk: At The-Races
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4665.ts
+Channel name:Uk: Eir Sport 1
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/3964.ts
+Channel name:Uk: Sky Premiere Sports
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/3965.ts
+Channel name:Uk: Keep It Country
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/3966.ts
+Channel name:Uk: Sky Sport F1
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/39.ts
+Channel name:Uk: Sky Sport F1 HD
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/3967.ts
+Channel name:Uk: EuroSport
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4565.ts
+Channel name:Uk: EuroSport 2
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4566.ts
+Channel name:Uk: SkyPremier Sport
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2590.ts
+Channel name:Uk: BT Sport 1
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/702.tsChannel name:Uk: BT Sport 2
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/703.ts
+Channel name:Uk: Motors Tv
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2621.ts
+Channel name:Uk: Chelsea Tv
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2588.ts
+Channel name:Uk: Sky Movies Action
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/24.ts
+Channel name:Uk: Sky Movies Thriller
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/944.ts
+Channel name:Uk: Sky Movies Family
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/27.ts
+Channel name:Uk: Sky Movies Drama
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/422.ts
+Channel name:Uk: Sky Movies Disney
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/29.ts
+Channel name:Uk: Sky Movies Select
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/33.ts
+Channel name:Uk: Sky Movies Comedy
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/25.ts
+Channel name:Uk: Sky Movies Premiere
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/31.ts
+Channel name:Uk: Sky Movies ScFi & Horror
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/32.ts
+Channel name:Uk: Sky Movies Greats
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/9770.ts
+Channel name:Uk: Sky Movies Hits
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/9771.ts
+Channel name:Uk: Sky Showcase
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2606.ts
+Channel name:Uk: Tru.TV
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4560.ts
+Channel name:Uk: True.Crime
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4562.ts
+Channel name:Uk: True Movie
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/744.ts
+Channel name:Uk: 4 Seven
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/927.ts
+Channel name:Uk: True Entertainment
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/6933.ts
+Channel name:Uk: Sky One
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/946.ts
+Channel name:Uk: Sky Tow
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/430.ts
+Channel name:Uk: Rte One
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2578.ts
+Channel name:Uk: Rte Tow
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2579.ts
+Channel name:Uk: Rte Jr
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/9782.ts
+Channel name:Uk: CBS.Action
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2585.ts
+Channel name:Uk: CBS Drama
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2586.ts
+Channel name:Uk: CBS.Reality
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2587.ts
+Channel name:Uk: Comedy Central
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2593.ts
+Channel name:Uk: Comedy Central ExtraURL:http://xxultraxx.com:8000/live/abc12345/abc12345/2594.ts
+Channel name:Uk: Sky Atlantic
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/6931.ts
+Channel name:Uk: itv.1
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/198.ts
+Channel name:Uk: itv.2
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/199.ts
+Channel name:Uk: itv.3
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/200.ts
+Channel name:Uk: itv.4
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/201.ts
+Channel name:Uk: itv Be
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/6928.ts
+Channel name:Uk: BBC One
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/740.ts
+Channel name:Uk: BBC Tow
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/741.ts
+Channel name:Uk: BBC Three
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/750.ts
+Channel name:Uk: BBC Four
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/714.ts
+Channel name:Uk: BBC News
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/546.ts
+Channel name:Uk: BBC World
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4657.ts
+Channel name:Uk: Nick.JR
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2628.ts
+Channel name:Uk: NickToons
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/955.ts
+Channel name:Uk: Nickelodeon
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/956.ts
+Channel name:Uk: Disney XD
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2623.ts
+Channel name:Uk: Disney Junior
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/990.ts
+Channel name:Uk: Disney Channel
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2603.ts
+Channel name:Uk: Cartoon Network
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2599.ts
+Channel name:Uk: Boomerang
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2629.ts
+Channel name:Uk: C.Beebies
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/6935.ts
+Channel name:Uk: Baby TV
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/6934.ts
+Channel name:Uk: 3 E
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2595.ts
+Channel name:Uk: E 4
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2580.ts
+Channel name:Uk: SyFy
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/963.ts
+Channel name:Uk: Viceland
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/9784.ts
+Channel name:Uk: WB Tv
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/6972.ts
+Channel name:Uk: euronews
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/9781.ts
+Channel name:Uk: Horse & Coutry
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/9788.tsChannel name:Uk: MY5
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/9789.ts
+Channel name:Uk: D.Drama
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2614.ts
+Channel name:Uk: Yesterday
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2576.ts
+Channel name:Uk: E!ntertainment
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2607.ts
+Channel name:Uk: T.L.C
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2591.ts
+Channel name:Uk: Sky.Arts
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2620.ts
+Channel name:Uk: Bravo
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4654.ts
+Channel name:Uk: Tcm
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2611.ts
+Channel name:Uk: Sky.Living
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2605.ts
+Channel name:Uk: Home
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2598.ts
+Channel name:Uk: Gold
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2582.ts
+Channel name:Uk: Fox
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2601.ts
+Channel name:Uk: Food Network
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2613.ts
+Channel name:Uk: Channel 4
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/743.ts
+Channel name:Uk: Channel 5
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/396.ts
+Channel name:Uk: Film 4
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2583.ts
+Channel name:Uk: Dmax
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2584.ts
+Channel name:Uk: Dave
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/745.ts
+Channel name:Uk: Alibi
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2581.ts
+Channel name:Uk: 5 USA
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2597.ts
+Channel name:Uk: 5 STAR
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2596.ts
+Channel name:Uk: Horror
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2608.ts
+Channel name:Uk: Mu Tv
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4564.ts
+Channel name:Uk: Watch
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4559.ts
+Channel name:Uk: TG.4
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4561.ts
+Channel name:Uk: Eden
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/6929.ts
+Channel name:Uk: Universal
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4567.ts
+Channel name:Uk: C.N.N
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4656.ts
+Channel name:Uk: London
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/3001.ts
+Channel name:UK: Sky NewsURL:http://xxultraxx.com:8000/live/abc12345/abc12345/4371.ts
+Channel name:Uk: Travel
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4663.ts
+Channel name:Uk: History
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2622.ts
+Channel name:Uk: Discovery Channel
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/746.ts
+Channel name:Uk: Discovery Science
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/749.ts
+Channel name:Uk: Crime and Investigation
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/748.ts
+Channel name:Uk: Discovery Turbo
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2625.ts
+Channel name:Uk: Discovery Shed
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2626.ts
+Channel name:Uk: Discovery History
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/747.ts
+Channel name:Uk: Home.Health
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2627.ts
+Channel name:Uk: Animal Planet
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/738.ts
+Channel name:Uk: NationalGeo Wild
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/957.ts
+Channel name:Uk: National Geographic
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/920.ts
+Channel name:Uk: VH.1
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/4558.ts
+Channel name:Uk: MTV.Hits
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/414.ts
+Channel name:Uk: MTV.Music
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/2604.ts
+Channel name:Uk: MTV Dance
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/413.ts
+Channel name:Uk: MTV.Classic
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/885.ts
+Channel name:Uk: MTV Rocks
+URL:http://xxultraxx.com:8000/live/abc12345/abc12345/6932.ts
+Channel name:UK | BBC2
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7858.ts
+Channel name:UK | BBC3
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7859.ts
+Channel name:UK | BTSport1
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7901.ts
+Channel name:UK | BTSport2
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7902.ts
+Channel name:UK | BTSportESPN
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7903.ts
+Channel name:UK | BTSportEurope
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7900.ts
+Channel name:UK | CBSAction
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7862.ts
+Channel name:UK | CBSDrama
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7861.ts
+Channel name:UK | CBSReality
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7860.ts
+Channel name:UK | Channel4
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7863.ts
+Channel name:UK | Channel5
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7864.tsChannel name:UK | ComedyCentral
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7865.ts
+Channel name:UK | Discovery Science HD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7870.ts
+Channel name:UK | Discovery Turbo HD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7871.ts
+Channel name:UK | DiscoveryChannelHD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7868.ts
+Channel name:UK | DiscoveryShed
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7869.ts
+Channel name:UK | DisneyChannel
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7867.ts
+Channel name:UK | DisneyJunior
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7866.ts
+Channel name:UK | Dmax.
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7889.ts
+Channel name:UK | EUROSPORT1
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7890.ts
+Channel name:UK | EUROSPORT2
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7891.ts
+Channel name:UK | ITV1
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7853.ts
+Channel name:UK | ITV2
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7854.ts
+Channel name:UK | ITV3
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7855.ts
+Channel name:UK | ITV4
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7856.ts
+Channel name:UK | Movies 4Men
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7879.ts
+Channel name:UK | NationalGeographic
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7872.ts
+Channel name:UK | PremierSport
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7904.ts
+Channel name:UK | Racing
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7876.ts
+Channel name:UK | RTE One
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7887.ts
+Channel name:UK | Rte Two
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7886.ts
+Channel name:UK | Sky Movies Action
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7882.ts
+Channel name:UK | Sky Movies Comedy
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7881.ts
+Channel name:UK | Sky Movies Family HD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7883.ts
+Channel name:UK | Sky Movies Premiere HD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7885.ts
+Channel name:UK | Sky Movies Scifi / Horror HD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7884.ts
+Channel name:UK | SkyMoviesDrama HD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7875.ts
+Channel name:UK | SkyMoviesSelect HD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7874.ts
+Channel name:UK | SkyMoviesThriller
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7873.ts
+Channel name:UK | SkyMTV
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7880.ts
+Channel name:UK | SkyOne HDURL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7878.ts
+Channel name:UK | SkySport1 UK
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7892.ts
+Channel name:UK | SkySport2 UK
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7893.ts
+Channel name:UK | SkySport3 UK
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7894.ts
+Channel name:UK | SkySport4 UK
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7895.ts
+Channel name:UK | SkySport5 UK
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7896.ts
+Channel name:UK | SkysportF1
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7897.ts
+Channel name:UK | SkysportNews
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7899.ts
+Channel name:UK | SkySportNewsUk
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7898.ts
+Channel name:UK | True Movies1 HD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7877.ts
+Channel name:UK | Yesterday
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7888.ts
+Channel name:Uk: Sky Sports Golf
+URL:http://54.37.85.181:8000/live/4653/4653/96.ts
+Channel name:Uk: Sky Sports Golf HD
+URL:http://54.37.85.181:8000/live/4653/4653/9779.ts
+Channel name:Uk: Sky Sports Action
+URL:http://54.37.85.181:8000/live/4653/4653/38.ts
+Channel name:Uk: Sky Sports Action HD
+URL:http://54.37.85.181:8000/live/4653/4653/9772.ts
+Channel name:Uk: Sky Sports Arena
+URL:http://54.37.85.181:8000/live/4653/4653/3963.ts
+Channel name:Uk: Sky Sports Arena HD
+URL:http://54.37.85.181:8000/live/4653/4653/9773.ts
+Channel name:Uk: Sky Sports Cricket
+URL:http://54.37.85.181:8000/live/4653/4653/37.ts
+Channel name:Uk: Sky Sports Cricket HD
+URL:http://54.37.85.181:8000/live/4653/4653/9774.ts
+Channel name:Uk: Sky Sports Main Event
+URL:http://54.37.85.181:8000/live/4653/4653/36.ts
+Channel name:Uk: Sky Sports Events HD
+URL:http://54.37.85.181:8000/live/4653/4653/9775.ts
+Channel name:Uk: Sky Sports Football
+URL:http://54.37.85.181:8000/live/4653/4653/3962.ts
+Channel name:Uk: Sky Sports Football HD
+URL:http://54.37.85.181:8000/live/4653/4653/9776.ts
+Channel name:Uk: Sky Sports Premier League
+URL:http://54.37.85.181:8000/live/4653/4653/95.ts
+Channel name:Uk: Sky Sports League HD
+URL:http://54.37.85.181:8000/live/4653/4653/9777.ts
+Channel name:Uk: Sky Sport Mix
+URL:http://54.37.85.181:8000/live/4653/4653/4661.ts
+Channel name:Uk: Sky Sports Mix HD
+URL:http://54.37.85.181:8000/live/4653/4653/9778.ts
+Channel name:Uk: BT Sport 1HD
+URL:http://54.37.85.181:8000/live/4653/4653/4658.ts
+Channel name:Uk: BT Sport 2HD
+URL:http://54.37.85.181:8000/live/4653/4653/4659.ts
+Channel name:Uk: BT Sport 3HD
+URL:http://54.37.85.181:8000/live/4653/4653/4660.tsChannel name:Uk: BT Sport Extra
+URL:http://54.37.85.181:8000/live/4653/4653/6971.ts
+Channel name:Uk: BT Sport ESPN
+URL:http://54.37.85.181:8000/live/4653/4653/6970.ts
+Channel name:Uk: Box.Nation
+URL:http://54.37.85.181:8000/live/4653/4653/6930.ts
+Channel name:Uk: Sky Sport News
+URL:http://54.37.85.181:8000/live/4653/4653/4662.ts
+Channel name:Uk: Sky.Racing
+URL:http://54.37.85.181:8000/live/4653/4653/4653.ts
+Channel name:Uk: LiverPool FC
+URL:http://54.37.85.181:8000/live/4653/4653/4655.ts
+Channel name:Uk: At The-Races
+URL:http://54.37.85.181:8000/live/4653/4653/4665.ts
+Channel name:Uk: Eir Sport 1
+URL:http://54.37.85.181:8000/live/4653/4653/3964.ts
+Channel name:Uk: Sky Premiere Sports
+URL:http://54.37.85.181:8000/live/4653/4653/3965.ts
+Channel name:Uk: Sky Sports Net World
+URL:http://54.37.85.181:8000/live/4653/4653/3966.ts
+Channel name:Uk: Sky Sport F1
+URL:http://54.37.85.181:8000/live/4653/4653/39.ts
+Channel name:Uk: Sky Sport F1 HD
+URL:http://54.37.85.181:8000/live/4653/4653/3967.ts
+Channel name:Uk: EuroSport
+URL:http://54.37.85.181:8000/live/4653/4653/4565.ts
+Channel name:Uk: EuroSport 2
+URL:http://54.37.85.181:8000/live/4653/4653/4566.ts
+Channel name:Uk: SkyPremier Sport
+URL:http://54.37.85.181:8000/live/4653/4653/2590.ts
+Channel name:Uk: BT Sport 1
+URL:http://54.37.85.181:8000/live/4653/4653/702.ts
+Channel name:Uk: BT Sport 2
+URL:http://54.37.85.181:8000/live/4653/4653/703.ts
+Channel name:Uk: Motors Tv
+URL:http://54.37.85.181:8000/live/4653/4653/2621.ts
+Channel name:Uk: Chelsea Tv
+URL:http://54.37.85.181:8000/live/4653/4653/2588.ts
+Channel name:Uk: Sky Movies Action
+URL:http://54.37.85.181:8000/live/4653/4653/24.ts
+Channel name:Uk: Sky Movies Thriller
+URL:http://54.37.85.181:8000/live/4653/4653/944.ts
+Channel name:Uk: Sky Movies Family
+URL:http://54.37.85.181:8000/live/4653/4653/27.ts
+Channel name:Uk: Sky Movies Drama
+URL:http://54.37.85.181:8000/live/4653/4653/422.ts
+Channel name:Uk: Sky Movies Disney
+URL:http://54.37.85.181:8000/live/4653/4653/29.ts
+Channel name:Uk: Sky Movies Select
+URL:http://54.37.85.181:8000/live/4653/4653/33.ts
+Channel name:Uk: Sky Movies Comedy
+URL:http://54.37.85.181:8000/live/4653/4653/25.ts
+Channel name:Uk: Sky Movies Premiere
+URL:http://54.37.85.181:8000/live/4653/4653/31.ts
+Channel name:Uk: Sky Movies ScFi & Horror
+URL:http://54.37.85.181:8000/live/4653/4653/32.ts
+Channel name:Uk: Sky Movies Greats
+URL:http://54.37.85.181:8000/live/4653/4653/9770.ts
+Channel name:Uk: Sky Movies HitsURL:http://54.37.85.181:8000/live/4653/4653/9771.ts
+Channel name:Uk: Sky Showcase
+URL:http://54.37.85.181:8000/live/4653/4653/2606.ts
+Channel name:Uk: Tru.TV
+URL:http://54.37.85.181:8000/live/4653/4653/4560.ts
+Channel name:Uk: True.Crime
+URL:http://54.37.85.181:8000/live/4653/4653/4562.ts
+Channel name:Uk: True Movie
+URL:http://54.37.85.181:8000/live/4653/4653/744.ts
+Channel name:Uk: 4 Seven
+URL:http://54.37.85.181:8000/live/4653/4653/927.ts
+Channel name:Uk: True Entertainment
+URL:http://54.37.85.181:8000/live/4653/4653/6933.ts
+Channel name:Uk: Sky One
+URL:http://54.37.85.181:8000/live/4653/4653/946.ts
+Channel name:Uk: Sky Tow
+URL:http://54.37.85.181:8000/live/4653/4653/430.ts
+Channel name:Uk: Rte One
+URL:http://54.37.85.181:8000/live/4653/4653/2578.ts
+Channel name:Uk: Rte Tow
+URL:http://54.37.85.181:8000/live/4653/4653/2579.ts
+Channel name:Uk: Rte Jr
+URL:http://54.37.85.181:8000/live/4653/4653/9782.ts
+Channel name:Uk: CBS.Action
+URL:http://54.37.85.181:8000/live/4653/4653/2585.ts
+Channel name:Uk: CBS Drama
+URL:http://54.37.85.181:8000/live/4653/4653/2586.ts
+Channel name:Uk: CBS.Reality
+URL:http://54.37.85.181:8000/live/4653/4653/2587.ts
+Channel name:Uk: Comedy Central
+URL:http://54.37.85.181:8000/live/4653/4653/2593.ts
+Channel name:Uk: Comedy Central Extra
+URL:http://54.37.85.181:8000/live/4653/4653/2594.ts
+Channel name:Uk: Sky Atlantic
+URL:http://54.37.85.181:8000/live/4653/4653/6931.ts
+Channel name:Uk: itv.1
+URL:http://54.37.85.181:8000/live/4653/4653/198.ts
+Channel name:Uk: itv.2
+URL:http://54.37.85.181:8000/live/4653/4653/199.ts
+Channel name:Uk: itv.3
+URL:http://54.37.85.181:8000/live/4653/4653/200.ts
+Channel name:Uk: itv.4
+URL:http://54.37.85.181:8000/live/4653/4653/201.ts
+Channel name:Uk: itv Be
+URL:http://54.37.85.181:8000/live/4653/4653/6928.ts
+Channel name:Uk: BBC One
+URL:http://54.37.85.181:8000/live/4653/4653/740.ts
+Channel name:Uk: BBC Tow
+URL:http://54.37.85.181:8000/live/4653/4653/741.ts
+Channel name:Uk: BBC Three
+URL:http://54.37.85.181:8000/live/4653/4653/750.ts
+Channel name:Uk: BBC Four
+URL:http://54.37.85.181:8000/live/4653/4653/714.ts
+Channel name:Uk: BBC News
+URL:http://54.37.85.181:8000/live/4653/4653/546.ts
+Channel name:Uk: BBC World
+URL:http://54.37.85.181:8000/live/4653/4653/4657.ts
+Channel name:Uk: Nick.JR
+URL:http://54.37.85.181:8000/live/4653/4653/2628.tsChannel name:Uk: NickToons
+URL:http://54.37.85.181:8000/live/4653/4653/955.ts
+Channel name:Uk: Nickelodeon
+URL:http://54.37.85.181:8000/live/4653/4653/956.ts
+Channel name:Uk: Disney XD
+URL:http://54.37.85.181:8000/live/4653/4653/2623.ts
+Channel name:Uk: Disney Junior
+URL:http://54.37.85.181:8000/live/4653/4653/990.ts
+Channel name:Uk: Disney Channel
+URL:http://54.37.85.181:8000/live/4653/4653/2603.ts
+Channel name:Uk: Cartoon Network
+URL:http://54.37.85.181:8000/live/4653/4653/2599.ts
+Channel name:Uk: Boomerang
+URL:http://54.37.85.181:8000/live/4653/4653/2629.ts
+Channel name:Uk: C.Beebies
+URL:http://54.37.85.181:8000/live/4653/4653/6935.ts
+Channel name:Uk: Baby TV
+URL:http://54.37.85.181:8000/live/4653/4653/6934.ts
+Channel name:Uk: 3 E
+URL:http://54.37.85.181:8000/live/4653/4653/2595.ts
+Channel name:Uk: E 4
+URL:http://54.37.85.181:8000/live/4653/4653/2580.ts
+Channel name:Uk: SyFy
+URL:http://54.37.85.181:8000/live/4653/4653/963.ts
+Channel name:Uk: Viceland
+URL:http://54.37.85.181:8000/live/4653/4653/9784.ts
+Channel name:Uk: WB Tv
+URL:http://54.37.85.181:8000/live/4653/4653/6972.ts
+Channel name:Uk: euronews
+URL:http://54.37.85.181:8000/live/4653/4653/9781.ts
+Channel name:Uk: Horse & Coutry
+URL:http://54.37.85.181:8000/live/4653/4653/9788.ts
+Channel name:Uk: MY5
+URL:http://54.37.85.181:8000/live/4653/4653/9789.ts
+Channel name:Uk: D.Drama
+URL:http://54.37.85.181:8000/live/4653/4653/2614.ts
+Channel name:Uk: Yesterday
+URL:http://54.37.85.181:8000/live/4653/4653/2576.ts
+Channel name:Uk: E!ntertainment
+URL:http://54.37.85.181:8000/live/4653/4653/2607.ts
+Channel name:Uk: T.L.C
+URL:http://54.37.85.181:8000/live/4653/4653/2591.ts
+Channel name:Uk: Sky.Arts
+URL:http://54.37.85.181:8000/live/4653/4653/2620.ts
+Channel name:Uk: Bravo
+URL:http://54.37.85.181:8000/live/4653/4653/4654.ts
+Channel name:Uk: Tcm
+URL:http://54.37.85.181:8000/live/4653/4653/2611.ts
+Channel name:Uk: Sky.Living
+URL:http://54.37.85.181:8000/live/4653/4653/2605.ts
+Channel name:Uk: Home
+URL:http://54.37.85.181:8000/live/4653/4653/2598.ts
+Channel name:Uk: Gold
+URL:http://54.37.85.181:8000/live/4653/4653/2582.ts
+Channel name:Uk: Fox
+URL:http://54.37.85.181:8000/live/4653/4653/2601.ts
+Channel name:Uk: Food Network
+URL:http://54.37.85.181:8000/live/4653/4653/2613.ts
+Channel name:Uk: Channel 4URL:http://54.37.85.181:8000/live/4653/4653/743.ts
+Channel name:Uk: Channel 5
+URL:http://54.37.85.181:8000/live/4653/4653/396.ts
+Channel name:Uk: Film 4
+URL:http://54.37.85.181:8000/live/4653/4653/2583.ts
+Channel name:Uk: Dmax
+URL:http://54.37.85.181:8000/live/4653/4653/2584.ts
+Channel name:Uk: Dave
+URL:http://54.37.85.181:8000/live/4653/4653/745.ts
+Channel name:Uk: Alibi
+URL:http://54.37.85.181:8000/live/4653/4653/2581.ts
+Channel name:Uk: 5 USA
+URL:http://54.37.85.181:8000/live/4653/4653/2597.ts
+Channel name:Uk: 5 STAR
+URL:http://54.37.85.181:8000/live/4653/4653/2596.ts
+Channel name:Uk: Horror
+URL:http://54.37.85.181:8000/live/4653/4653/2608.ts
+Channel name:Uk: Mu Tv
+URL:http://54.37.85.181:8000/live/4653/4653/4564.ts
+Channel name:Uk: Watch
+URL:http://54.37.85.181:8000/live/4653/4653/4559.ts
+Channel name:Uk: TG.4
+URL:http://54.37.85.181:8000/live/4653/4653/4561.ts
+Channel name:Uk: Eden
+URL:http://54.37.85.181:8000/live/4653/4653/6929.ts
+Channel name:Uk: Universal
+URL:http://54.37.85.181:8000/live/4653/4653/4567.ts
+Channel name:Uk: C.N.N
+URL:http://54.37.85.181:8000/live/4653/4653/4656.ts
+Channel name:Uk: London
+URL:http://54.37.85.181:8000/live/4653/4653/3001.ts
+Channel name:UK: Sky News
+URL:http://54.37.85.181:8000/live/4653/4653/4371.ts
+Channel name:Uk: Travel
+URL:http://54.37.85.181:8000/live/4653/4653/4663.ts
+Channel name:Uk: History
+URL:http://54.37.85.181:8000/live/4653/4653/2622.ts
+Channel name:Uk: Discovery Channel
+URL:http://54.37.85.181:8000/live/4653/4653/746.ts
+Channel name:Uk: Discovery Science
+URL:http://54.37.85.181:8000/live/4653/4653/749.ts
+Channel name:Uk: Crime and Investigation
+URL:http://54.37.85.181:8000/live/4653/4653/748.ts
+Channel name:Uk: Discovery Turbo
+URL:http://54.37.85.181:8000/live/4653/4653/2625.ts
+Channel name:Uk: Discovery Shed
+URL:http://54.37.85.181:8000/live/4653/4653/2626.ts
+Channel name:Uk: Discovery History
+URL:http://54.37.85.181:8000/live/4653/4653/747.ts
+Channel name:Uk: Home.Health
+URL:http://54.37.85.181:8000/live/4653/4653/2627.ts
+Channel name:Uk: Animal Planet
+URL:http://54.37.85.181:8000/live/4653/4653/738.ts
+Channel name:Uk: NationalGeo Wild
+URL:http://54.37.85.181:8000/live/4653/4653/957.ts
+Channel name:Uk: National Geographic
+URL:http://54.37.85.181:8000/live/4653/4653/920.ts
+Channel name:Uk: VH.1
+URL:http://54.37.85.181:8000/live/4653/4653/4558.tsChannel name:Uk: MTV.Hits
+URL:http://54.37.85.181:8000/live/4653/4653/414.ts
+Channel name:Uk: MTV.Music
+URL:http://54.37.85.181:8000/live/4653/4653/2604.ts
+Channel name:Uk: MTV Dance
+URL:http://54.37.85.181:8000/live/4653/4653/413.ts
+Channel name:Uk: MTV.Classic
+URL:http://54.37.85.181:8000/live/4653/4653/885.ts
+Channel name:Uk: MTV Rocks
+URL:http://54.37.85.181:8000/live/4653/4653/6932.ts
+Channel name:Azul Fm (101.1)
+URL:http://latinchannel.tv:8000/live/sonia2/321/4208.ts
+Channel name:TLT VENEZUELA
+URL:http://latinchannel.tv:8000/live/sonia2/321/5326.ts
+Channel name:UK | Sky Sports News
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8353.ts
+Channel name:UK | Sky Sports Mix
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8354.ts
+Channel name:UK | Movies 24
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8355.ts
+Channel name:Willow HD
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8380.ts
+Channel name:UK | H2
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8382.ts
+Channel name:UK | Chelsea TV
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8386.ts
+Channel name:Teen Nick
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8393.ts
+Channel name:UK | Sky Sports Action
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8451.ts
+Channel name:UK | Sky Sports Arena
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8452.ts
+Channel name:UK | 5STAR
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8509.ts
+Channel name:UK | At The Races
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8507.ts
+Channel name:UK | Boomerang
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8505.ts
+Channel name:UK | Box Nation HD
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8504.ts
+Channel name:UK | BT Sport ESPN HD
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8501.ts
+Channel name:UK | BT Sport Extra 1
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8500.ts
+Channel name:UK | BT Sport Extra 2
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8499.ts
+Channel name:UK | BT Sport Extra 3
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8498.ts
+Channel name:UK | BT Sport Extra 4
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8497.ts
+Channel name:UK | BT Sport Extra 5
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8496.ts
+Channel name:UK | BT Sport Extra 6
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8495.ts
+Channel name:UK | CBBC HD
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8494.ts
+Channel name:UK | CBeebies HD
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8493.ts
+Channel name:UK | ChallengeURL:http://iptv-area-51.tv:2095/live/philly/philly/8492.ts
+Channel name:UK | Channel 5 HD
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8491.ts
+Channel name:UK | Crime Investigation HD
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8488.ts
+Channel name:UK | Discovery History
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8486.ts
+Channel name:UK | Discovery Science
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8485.ts
+Channel name:UK | Discovery Shed
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8484.ts
+Channel name:UK | DMAX
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8483.ts
+Channel name:UK | Drama
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8482.ts
+Channel name:UK | E4 HD
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8480.ts
+Channel name:UK | Tiny Pop
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8511.ts
+Channel name:NL | Ziggo Sport Extra 1
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8557.ts
+Channel name:NL | Ziggo Sport Extra 2
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8556.ts
+Channel name:NL | Ziggo Sport Racing
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8555.ts
+Channel name:NL | Ziggo Sport Select
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8554.ts
+Channel name:Film1 Action NL
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8552.ts
+Channel name:Film1 Comedy & Kids NL
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8551.ts
+Channel name:Film1 Premiere NL
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8550.ts
+Channel name:Film1 Spotlight NL
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8549.ts
+Channel name:FOX Channel NL
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8548.ts
+Channel name:ES | Fox
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8512.ts
+Channel name:HBO 3 NL
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8546.ts
+Channel name:HBO NL
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8547.ts
+Channel name:HBO2 NL
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8545.ts
+Channel name:Ziggo Sport Voetbal NL
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8553.ts
+Channel name:UK | BBC One (opt-2)
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8559.ts
+Channel name:UK | Sky Atlantic
+URL:http://iptv-area-51.tv:2095/live/philly/philly/8560.ts
+Channel name:UK | ITV 1
+URL:http://iptv-area-51.tv:2095/live/philly/philly/9149.ts
+Channel name:UK | ITV 2 HD
+URL:http://iptv-area-51.tv:2095/live/philly/philly/9148.ts
+Channel name:UK | ITV 3 HD
+URL:http://iptv-area-51.tv:2095/live/philly/philly/9147.ts
+Channel name:UK | ITV 4
+URL:http://iptv-area-51.tv:2095/live/philly/philly/9146.tsChannel name:UK | ITV Be
+URL:http://iptv-area-51.tv:2095/live/philly/philly/10588.ts
+Channel name:UK | ITV Encore
+URL:http://iptv-area-51.tv:2095/live/philly/philly/9145.ts
+Channel name:UK | VH1 Classic
+URL:http://iptv-area-51.tv:2095/live/philly/philly/9144.ts
+Channel name:UK | BBC FOUR HD
+URL:http://iptv-area-51.tv:2095/live/philly/philly/9140.ts
+Channel name:UK | BBC One HD
+URL:http://iptv-area-51.tv:2095/live/philly/philly/9142.ts
+Channel name:UK | BBC Two HD
+URL:http://iptv-area-51.tv:2095/live/philly/philly/9141.ts
+Channel name:UK | BBC World
+URL:http://iptv-area-51.tv:2095/live/philly/philly/9139.ts
+Channel name:UK | E!
+URL:http://iptv-area-51.tv:2095/live/philly/philly/9143.ts
+Channel name:UK | Dave Ja Vu
+URL:http://iptv-area-51.tv:2095/live/philly/philly/9174.ts
+Channel name:UK | BBC2
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7858.ts
+Channel name:UK | BBC3
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7859.ts
+Channel name:UK | BTSport1
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7901.ts
+Channel name:UK | BTSport2
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7902.ts
+Channel name:UK | BTSportESPN
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7903.ts
+Channel name:UK | BTSportEurope
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7900.ts
+Channel name:UK | CBSAction
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7862.ts
+Channel name:UK | CBSDrama
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7861.ts
+Channel name:UK | CBSReality
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7860.ts
+Channel name:UK | Channel4
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7863.ts
+Channel name:UK | Channel5
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7864.ts
+Channel name:UK | ComedyCentral
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7865.ts
+Channel name:UK | Discovery Science HD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7870.ts
+Channel name:UK | Discovery Turbo HD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7871.ts
+Channel name:UK | DiscoveryChannelHD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7868.ts
+Channel name:UK | DiscoveryShed
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7869.ts
+Channel name:UK | DisneyChannel
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7867.ts
+Channel name:UK | DisneyJunior
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7866.ts
+Channel name:UK | Dmax.
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7889.ts
+Channel name:UK | EUROSPORT1
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7890.ts
+Channel name:UK | EUROSPORT2URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7891.ts
+Channel name:UK | ITV1
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7853.ts
+Channel name:UK | ITV2
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7854.ts
+Channel name:UK | ITV3
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7855.ts
+Channel name:UK | ITV4
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7856.ts
+Channel name:UK | Movies 4Men
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7879.ts
+Channel name:UK | NationalGeographic
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7872.ts
+Channel name:UK | PremierSport
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7904.ts
+Channel name:UK | Racing
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7876.ts
+Channel name:UK | RTE One
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7887.ts
+Channel name:UK | Rte Two
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7886.ts
+Channel name:UK | Sky Movies Action
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7882.ts
+Channel name:UK | Sky Movies Comedy
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7881.ts
+Channel name:UK | Sky Movies Family HD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7883.ts
+Channel name:UK | Sky Movies Premiere HD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7885.ts
+Channel name:UK | Sky Movies Scifi / Horror HD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7884.ts
+Channel name:UK | SkyMoviesDrama HD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7875.ts
+Channel name:UK | SkyMoviesSelect HD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7874.ts
+Channel name:UK | SkyMoviesThriller
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7873.ts
+Channel name:UK | SkyMTV
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7880.ts
+Channel name:UK | SkyOne HD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7878.ts
+Channel name:UK | SkySport1 UK
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7892.ts
+Channel name:UK | SkySport2 UK
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7893.ts
+Channel name:UK | SkySport3 UK
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7894.ts
+Channel name:UK | SkySport4 UK
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7895.ts
+Channel name:UK | SkySport5 UK
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7896.ts
+Channel name:UK | SkysportF1
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7897.ts
+Channel name:UK | SkysportNews
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7899.ts
+Channel name:UK | SkySportNewsUk
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7898.ts
+Channel name:UK | True Movies1 HD
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7877.tsChannel name:UK | Yesterday
+URL:http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/7888.ts
+Channel name:UK:SKY SPORTS 1
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/178.ts
+Channel name:UK:SKY SPORTS 2
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/177.ts
+Channel name:UK:SKY SPORTS 3
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/176.ts
+Channel name:UK:SKY SPORTS 4
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/175.ts
+Channel name:UK:SKY SPORTS 5
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/174.ts
+Channel name:UK:ANIMAL PLANET HD
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1614.ts
+Channel name:UK:BABY TV
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1615.ts
+Channel name:UK:BOX NATION
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1616.ts
+Channel name:UK:BTSPORT 1 HD
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1617.ts
+Channel name:UK:BTSPORT 2 HD
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1618.ts
+Channel name:UK:BTSPORT 3HD
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1619.ts
+Channel name:UK:CBS ACTION
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1620.ts
+Channel name:UK:DISCOVERY HISTORY HD
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1621.ts
+Channel name:UK:DISNEY CHANNEL
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1622.ts
+Channel name:UK:EUROSPORT 1
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1623.ts
+Channel name:UK:ITV 1
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1624.ts
+Channel name:UK:ITV 2
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1625.ts
+Channel name:UK:NAT GEO WILD HD
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1626.ts
+Channel name:UK:NICK TOONS
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1627.ts
+Channel name:UK:SKY MOVIES ACTION
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1628.ts
+Channel name:UK:SKY MOVIES FAMILY HD
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1629.ts
+Channel name:UK:SKY MOVIES DRAMA
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1630.ts
+Channel name:UK:SKY MOVIES DISNEY
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1631.ts
+Channel name:UK:SKY SPORT F1
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1632.ts
+Channel name:UK:SKY SPORT NEWS HD
+URL:http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1633.ts
+Channel name:UK | E!
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/95.ts
+Channel name:UK | H2
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/96.ts
+Channel name:UK | Sky Sport News HQ
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/47.ts
+Channel name:UK | Sky Sports Premier League SDURL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/18.ts
+Channel name:UK | Sky Sport Premiere League HD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/10.ts
+Channel name:UK | Sky Sport 4 SD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/17.ts
+Channel name:UK | Sky Sport The Open HD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/9.ts
+Channel name:UK | Sky Sport Action SD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/16.ts
+Channel name:UK | Sky Sport Action HD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/8.ts
+Channel name:UK | Sky Sport 2 SD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/15.ts
+Channel name:UK | Sky Sport Cricket HD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/7.ts
+Channel name:UK | Sky Sport 1 SD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/14.ts
+Channel name:UK | Sky Sports Main Event HD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/6.ts
+Channel name:UK | Sky News
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2650.ts
+Channel name:UK | Sky Movies Thriller
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/26.ts
+Channel name:UK | Sky Movies Select
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/20.ts
+Channel name:UK | Sky Movies Premiere
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/24.ts
+Channel name:UK | Sky Movies Greats
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/30.ts
+Channel name:UK | Sky Movies Family
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/28.ts
+Channel name:UK | Sky Drama & Romance
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/29.ts
+Channel name:UK | Sky Movies Disney
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/27.ts
+Channel name:UK | Sky Movies Comedy
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/23.ts
+Channel name:UK | Sky Movies Action
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/22.ts
+Channel name:UK | Sky Movie Sci-Fi
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/21.ts
+Channel name:UK | Sky Living
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/31.ts
+Channel name:UK | Sky Atlantic
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/48.ts
+Channel name:UK | Food
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/100.ts
+Channel name:UK | Sky One
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/52.ts
+Channel name:UK | RTE 2
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/56.ts
+Channel name:UK | RTE 1
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/55.ts
+Channel name:UK | Racing
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2878.ts
+Channel name:UK | Movies 4 Man
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/69.ts
+Channel name:UK | ITV Encore
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2672.tsChannel name:UK | Yesterday
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2673.ts
+Channel name:UK | Movies4Men
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2680.ts
+Channel name:UK | ITV Be
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2694.ts
+Channel name:UK | DMax
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2669.ts
+Channel name:UK | More 4
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2670.ts
+Channel name:UK | CC
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2671.ts
+Channel name:UK | CBS Reality
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2696.ts
+Channel name:UK | Nickloedon
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/57.ts
+Channel name:UK | True Movies 1
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/395.ts
+Channel name:UK | National Geographic
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/59.ts
+Channel name:UK | Nat Geo Wild HD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/86.ts
+Channel name:UK | MUTV
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2783.ts
+Channel name:UK | CI
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2628.ts
+Channel name:UK | Disney XD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/67.ts
+Channel name:UK | Pick
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/99.ts
+Channel name:UK | CN
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/93.ts
+Channel name:UK | LFCTV
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2877.ts
+Channel name:UK | CBS Action
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/3016.ts
+Channel name:UK | ITV 4 SD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/74.ts
+Channel name:UK | ITV 4
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2631.ts
+Channel name:UK | ITV 3 SD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/73.ts
+Channel name:UK | Dave
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2632.ts
+Channel name:UK | ITV 2 SD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/72.ts
+Channel name:UK | ITV 2 HD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2633.ts
+Channel name:UK | ITV 1 SD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/71.ts
+Channel name:UK | ITV 1 HD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2634.ts
+Channel name:UK | History
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/98.ts
+Channel name:UK | Gold
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2635.ts
+Channel name:UK | Fox
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/396.ts
+Channel name:UK | CbeebiesURL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/84.ts
+Channel name:UK | Disney Junior
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/50.ts
+Channel name:UK | 5 USA
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2637.ts
+Channel name:UK | F1 HD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/19.ts
+Channel name:UK | Eurosport 2 HD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2638.ts
+Channel name:UK | Eurosport
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/64.ts
+Channel name:UK | Drama
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/89.ts
+Channel name:UK | TCM
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2642.ts
+Channel name:UK | Disney
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/87.ts
+Channel name:UK | Discovery Turbo
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/83.ts
+Channel name:UK | Discovery History
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/82.ts
+Channel name:UK | 5 Star
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/33.ts
+Channel name:UK | Chelsea TV
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/63.ts
+Channel name:UK | BT Sport ESPN
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2781.ts
+Channel name:UK | BT Sport 2 SD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/13.ts
+Channel name:UK | BT Sport 1 HD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/12.ts
+Channel name:UK | Boxnation
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/60.ts
+Channel name:UK | BBC 4 HD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2648.ts
+Channel name:UK | BBC 2 HD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/76.ts
+Channel name:UK | Real Lives
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/75.ts
+Channel name:UK | At The Races
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2643.ts
+Channel name:UK | Animal Planet
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/49.ts
+Channel name:UK | Baby TV
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/766.ts
+Channel name:UK | BBC 3 HD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/765.ts
+Channel name:UK | E4
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/764.ts
+Channel name:UK | BBC 1 HD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/763.ts
+Channel name:UK | Watch
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/1891.ts
+Channel name:UK | ID
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/1884.ts
+Channel name:UK | Discovery Science
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/1894.ts
+Channel name:UK | Sky Arts 1
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/1895.tsChannel name:UK | DISCOVERY
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/1896.ts
+Channel name:UK | Channel 5 HD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/1885.ts
+Channel name:UK | Channel 4 HD
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/1886.ts
+Channel name:UK | Boomerang
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/1887.ts
+Channel name:UK | Alibi
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2117.ts
+Channel name:UK | Cartoonito
+URL:http://iptv-m3u4playlist.sytes.net:11000/live/alexa_ex/alexa_ex/2123.ts
+Channel name:UK_inglesh_inghelterra_1_1
+URL:http://contributionstreams.asURL:http9.visionip.tv/live/visiontv-
+contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+Channel name:UK_inglesh_inghelterra_1_4
+URL:http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-
+v1a1/index.m3u8
+Channel name:UK_inglesh_inghelterra_1_14
+URL:http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlis
+t.m3u8
+Channel name:UK_inglesh_inghelterra_1_15
+URL:http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+Channel name:UK_inglesh_inghelterra_1_16
+URL:http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+Channel name:UK_inglesh_inghelterra_1_22
+URL:https://secure-streams.akamaized.net/rt-uk/index.m3u8
+Channel name:UK_inglesh_inghelterra_1_23
+URL:http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+Channel name:UK_inglesh_inghelterra_1_26
+URL:http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+Channel name:UK_inglesh_inghelterra_1_27
+URL:http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+Channel name:UK_inglesh_inghelterra_1_28
+URL:http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
+Channel name:UK_inglesh_inghelterra_1_29
+URL:http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
+Channel name:UK_inglesh_inghelterra_1_32
+URL:http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
